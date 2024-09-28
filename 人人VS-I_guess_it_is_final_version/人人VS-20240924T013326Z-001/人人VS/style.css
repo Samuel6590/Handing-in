@@ -1,0 +1,115 @@
+   button {
+        background-color: rgb(0, 188, 216);
+        color: aliceblue;
+        border: none;
+        border-radius: 10px;
+        width: 50px;
+        height: 20px;
+        padding: 1px;
+        margin-left: 100px;
+    }
+    .square {
+  height: 25px;
+  width: 10px;
+  background-color: #00aac4;
+  display: inline-block;
+}
+
+button:hover {
+  background-color: rgb(0, 108, 128);
+}
+
+h1 {
+  text-shadow: 5px 0px #000000;
+  text-align: center;
+  color: #e5ff00;
+  stroke: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+h2 {text-align: left;
+text-shadow: 2px 2px;}
+h4 {text-align: left;}
+
+.Uber {
+  color: aliceblue;
+  background-color: black;
+  text-align: center;
+  float: right;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+  overflow: hidden;
+  color: blue;
+}
+
+.nab ul{
+  margin: 0px;
+  list-style-type: none;
+  text-align: center;
+  padding: 0px;
+  background-color: black;
+  color: aliceblue;
+  overflow: hidden;
+}
+
+.nab a {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  display: block;
+  text-decoration: none;
+  padding: 18px;
+}
+.nab a:hover {
+  background-color: rgb(44, 44, 44);
+}
+
+.nav li {
+  float: left;
+
+ 
+}
+
+body {
+  background-image: url('ssosigmas.png') ;
+}
+
+.Usss {
+  color: #1900ff;
+  text-shadow: #ffffff;
+  text-align: center;
+}
+
+.piyan {
+  text-shadow: 2px 0px #ffffff;
+  color: #000000;
+}
+.footer {
+  background-color: lightgray;
+  padding: 10px;
+  text-align: center;
+  max-width: 800px;
+}
+
+
+.footer p {
+  margin: 0;
+}
+
+
+.footer a {
+  color: rgb(33, 33, 255);
+  text-decoration: none;
+}
+
+.content {
+text-align: justify;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgb(145, 145, 145);
+color: #ffffff;
+text-shadow: #000000 2px 2px;
+font-family: Arial, Helvetica, sans-serif;
+}
